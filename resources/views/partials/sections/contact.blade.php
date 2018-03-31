@@ -1,21 +1,21 @@
 <article id="contact">
-    <h2 class="major">Contact</h2>
+    <h2 class="major">@lang('content.menu.contact')</h2>
     <form method="post" action="#">
         <div class="field half first">
-            <label for="name">Name</label>
+            <label for="name">@lang('content.contact.name')</label>
             <input type="text" name="name" id="name"/>
         </div>
         <div class="field half">
-            <label for="email">Email</label>
+            <label for="email">@lang('content.contact.email')</label>
             <input type="text" name="email" id="email"/>
         </div>
         <div class="field">
-            <label for="message">Message</label>
+            <label for="message">@lang('content.contact.message')</label>
             <textarea name="message" id="message" rows="4"></textarea>
         </div>
         <ul class="actions">
-            <li><input type="submit" value="Send Message" class="special"/></li>
-            <li><input type="reset" value="Reset"/></li>
+            <li><input type="submit" value="@lang('content.contact.send')" class="special"/></li>
+            <li><input type="reset" value="@lang('content.contact.reset')"/></li>
         </ul>
     </form>
     <ul class="icons">
