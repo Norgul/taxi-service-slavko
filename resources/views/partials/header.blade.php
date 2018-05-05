@@ -7,7 +7,7 @@
             <h1>{{ strtoupper(env('APP_NAME')) }}</h1>
             <p>@lang('content.landing_page')
             <p>
-                HR / EN
+                <a href="{{ route('locale.switch', 'hr') }}">HR</a> / <a href="{{ route('locale.switch', 'en') }}">EN</a>
             </p>
         </div>
     </div>
