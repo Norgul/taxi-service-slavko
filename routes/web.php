@@ -13,7 +13,8 @@
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('home');
 
 
 Route::get('locale/{locale}', 'LocaleController@switch')->name('locale.switch');
+Route::post('send-mail', 'MailController@send')->name('mail.send');
