@@ -1,10 +1,25 @@
-<p>Vršimo prijevoz putnika do i od zračnih luka prema Vašim destinacijama. Po potrebi ukoliko Vam kasni let, takoder cemo Vas i pricekati.
-    Osjecajte se ugodno i opusteno koristeci nase TAXI usluge.</p>
-<p>Vršimo prijevoz putnika do i od hotela prema Vašim destinacijama.
-    Osjecajte se ugodno i opusteno koristeci nase TAXI usluge.</p>
-<p>Ukoliko Vam treba prijevoz sa Autobusnog kolodvora Rijeka do hotela (seminara, kongresa), zračne luke, grada, posla ili svog doma,
-    slobodno nam se obratite putem kontakt forme ili nas kontaktirajte na
-    +385 (0)91 514 2776.</p>
-<p>Ukoliko Vam treba prijevoz sa nekog Željezničkog kolodvora Rijeka do hotela (seminara, kongresa), zračne luke, grada, posla ili
-    svog doma, slobodno nam se obratite putem kontakt polja ili nas kontaktirajte na
-    +385 (0)91 514 2776.</p>
+<p>Nudimo:</p>
+<ul>
+    <li>
+        Aerodromske transfere (Pula, Rijeka, Zagreb, Trst, Venecija, Milano, Ljubljana, Maribor, Kopar, Klagenfurt, Graz, Beč...)
+    </li>
+    <li>
+        Taxi usluge
+    </li>
+    <li>
+        Prihvat putnika na aerodromskim terminalima, željezničkim i autobusnim kolodvorima te brodskim pristaništima
+    </li>
+    <li>
+        usluge prijevoza VIP klijenata
+    </li>
+</ul>
+
+<p>Polazak:</p>
+
+<p>
+    Cijena do 5 km = 30,00 HRK <br>
+    Cijena nakon 5 km (po kilometru) = 7,00 HRK <br>
+    Čekanje: cijena za 1 sat = 10,00 HRK
+</p>
+
+<p>Uvećanje cijene za vožnju noću od 24,00 - 06,00 sati iznosi 20%</p>

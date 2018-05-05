@@ -42,18 +42,33 @@ yacht-ship, the hotel to the village and back so that your guests are comfortabl
         bus stations, etc ... Many years of experience guarantee the quality of transport and the level of service you need.</p>
         <p>If you are looking for a relaxing business or private travel, then you are in the right place. Can you drive comfortably with high-class vehicles. 
         MB. Mercedes-Benz E-Class Avantgarde and Mercedes-Benz Viano Ambiente Edition.</p>
-        <p>We offer:
-- Airport transfers (Pula, Rijeka, Zagreb, Trieste, Venice, Milan, Ljubljana, Maribor, Koper, Klagenfurt, Graz, Vienna ...)
-- Taxi services
-- Acceptance of passengers at airport terminals, railway and bus stations and ferry
-   harbors
-- Transportation services VIP clients</p>
-        <p>Departure: price to 5 km = 30.00 HRK
-        Price after 5 km (per mile) = 7.00 HRK
-        Waiting: Price for 1 hour = 10.00 HRK
-        
-        Rate increase for night driving from 00.00 - 06.00 pm
-for 20%.</p>',
+        <p>We offer:</p>
+<ul>
+    <li>
+        Airport transfers (Pula, Rijeka, Zagreb, Trieste, Venice, Milan, Ljubljana, Maribor, Koper, Klagenfurt, Graz,
+        Vienna ...)
+    </li>
+    <li>
+        Taxi services
+    </li>
+    <li>
+        Acceptance of passengers at airport terminals, railway and bus stations and ferry
+        harbors
+    </li>
+    <li>
+        Transportation services VIP clients
+    </li>
+</ul>
+
+<p>Departure:</p>
+
+<p>
+    Price to 5 km = 30.00 HRK <br>
+    Price after 5 km (per mile) = 7.00 HRK <br>
+    Waiting: Price for 1 hour = 10.00 HRK
+</p>
+
+<p>Rate increase for night driving from 00.00 - 06.00 pm for 20%</p>',
     ],
 
     'contact' => [

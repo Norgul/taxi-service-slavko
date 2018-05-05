@@ -41,17 +41,31 @@ Hrvatskoj koju odaberete. Taxi Rijeka SMS nudi Vam usluge udobnog i sigurnog tra
         kolodvorima, autobusnim kolodvorima i sl... Dugogodišnje iskustvo garancija je kvalitete prijevoza i nivoa usluge koju trebate</p>
         <p>Ako ste u potrazi za opuštajuće poslovno ili privatno putovanje, onda ste na pravom mjestu. Možemo Vas  voziti ugodno s vozilima visoke klase. 
         MB. Mercedes-Benz E-klase AVANGARD i Mercedes-Benz Viano AMBIENTE EDITION.</p>
-        <p>Nudimo:
-        - aerodromske transfere (Pula, Rijeka, Zagreb, Trst, Venecija, Milano, Ljubljana, Maribor, Kopar, Klagenfurt, Graz, Beč...)
-        - taxi usluge
-        - prihvat putnika na aerodromskim terminalima, željezničkim i autobusnim kolodvorima te brodskim   
-          pristaništima
-        - usluge prijevoza VIP klijenata</p>
-        <p>Polazak: cijena do 5 km = 30,00 HRK
-        Cijena nakon 5 km (po kilometru) = 7,00 HRK
-        Čekanje: cijena za 1 sat = 10,00 HRK
-        
-        Uvećanje cijene za vožnju noću od 24,00 - 06,00 sati iznosi 20%.</p>',
+        <p>Nudimo:</p>
+<ul>
+    <li>
+        Aerodromske transfere (Pula, Rijeka, Zagreb, Trst, Venecija, Milano, Ljubljana, Maribor, Kopar, Klagenfurt, Graz, Beč...)
+    </li>
+    <li>
+        Taxi usluge
+    </li>
+    <li>
+        Prihvat putnika na aerodromskim terminalima, željezničkim i autobusnim kolodvorima te brodskim pristaništima
+    </li>
+    <li>
+        usluge prijevoza VIP klijenata
+    </li>
+</ul>
+
+<p>Polazak:</p>
+
+<p>
+    Cijena do 5 km = 30,00 HRK <br>
+    Cijena nakon 5 km (po kilometru) = 7,00 HRK <br>
+    Čekanje: cijena za 1 sat = 10,00 HRK
+</p>
+
+<p>Uvećanje cijene za vožnju noću od 24,00 - 06,00 sati iznosi 20%</p>',
     ],
 
     'contact' => [
