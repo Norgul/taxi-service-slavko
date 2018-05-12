@@ -5,7 +5,7 @@
     <div class="content">
         <div class="inner">
             <h1>{{ strtoupper(env('APP_NAME')) }}</h1>
-            <h2>+385 91 514 2776</h2>
+            <h2><a href="tel:+385915142776">+385 91 514 2776</a></h2>
             <p>@lang('content.landing_page')
             <p>
                 <a href="{{ route('locale.switch', 'hr') }}">HR</a> / <a href="{{ route('locale.switch', 'en') }}">EN</a>
